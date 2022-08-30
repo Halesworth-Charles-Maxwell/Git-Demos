@@ -1,3 +1,3 @@
 # Git-Demos
 
-Miscellaneous Files 
+Miscellaneous projects
